@@ -1,0 +1,106 @@
+text-decoration:underline; 
+/* pasidan chziq */;
+text-decoration: line-through;
+/* ustidan chziq */
+text-decoration: overline; 
+/* tepadan chzu */
+text-align: center; 
+/* ortada */
+text-align: end;
+/* ongda */
+text-transform: uppercase; 
+/* kottada yozad */
+border:2px solid red;
+/* hamma tomoni ranggi */
+border-bottom: 3px solid darkblue;
+/* pasi */
+border-top:4px solid green;
+/* yuqori */
+border-right: 4px solid saddlebrown;
+/* chap */
+border-left: 3px solid darkcyan;
+/* o'ng  */
+line-height: 20px;
+/* qator orasi */
+letter-spacing: 2px; 
+/* har bitta harf orasi */
+word-spacing: 30px;
+/* har bitta soz orasi */
+text-transform: capitalize;
+/* har bir sozzi bow harifi kottada */
+text-transform: lowercase;
+/* hammasi kichkinada */
+text-transform: uppercase;
+/* hammasi kottada */
+/*  - - - - - - - - - - - - - - - - - - - - - - - - - - -  */
+box-sizing: border-box;
+/* box-sizing: border-box; divni icida border boladi */
+box-sizing: content-box;
+/* box-sizing: content-box; divni tawqarisida border boladi */
+/*  - - - - - - - - - - - - - - - - - - - - - - - - - - -  */
+cursor: all-scroll;
+/* cursor=miwkani ozgartradi */
+.demo:focus{}
+/* bosilgndan kegn */
+.demo:hover{}
+/* iwkani oborsa ozgariwi */
+li:first-child{}
+/* brinci bolasi */
+li:last-child{}
+/* ohirgi bolasi */
+li:nth-child(3){}
+/* nth luboy bolasi */
+/* 1-sn x  boyicha olchiv */
+/* 2-son y boyicha olchov */
+/* 3-son son rang xiralashish darajasi */
+/* 4-son soyani tarqalish radiusi */
+box-shadow: -30px 50px 50px 50px black;
+/* box soyasi */
+text-shadow: 30px 50px 50px rgb(99, 39, 39);
+/* harf soyasi */
+/*  - - - - - - - - - - - - - - - - - - - - - - - - - - -  */
+background-image: url();
+/* orqa fonga rasm */ 
+background-size: cover;
+/* backgtraund image parent elementni toliq qoplaydi */
+background-size: contain;
+/* backgraund image parent elementini  iciga tolq tuwadi
+qayta takrorlanadi */
+background-repeat: no-repeat;
+/* takrorlanmidigan qladi */
+background: linear-gradient(50deg, black, blue);
+/* ranggi ikki hil qlad  */
+height: 100vh;
+/* polni qoblid kicraytrsayam polni */
+width: 100vw;
+/* polni qoblid kicraytrsayam polni */
+overflow: auto;
+/* yozuvvi joyida aylantradi */
+opacity: 0.6;
+/* rangni kamaytrad */
+position: fixed;
+/* qotrb qoyadi */
+.select .subcollection {
+}
+/* iktali class */
+scroll-behavior: smooth;
+/*  o'tish navigatsiya yoki CSSOM aylantirish API-lari tomonidan ishga tushirilganda aylantirish oynasi uchun harakatni o'rnatadi*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

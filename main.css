@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* :root{
+    --main-size: 300px;
+    --main-color: blue;
+    --main-gradient: linear-gradient(180deg, rgba(13,210,236,1) 0%, rgba(13,210,236,1) 31%, rgba(255,0,0,1) 32%, rgba(255,34,34,1) 33%, rgba(250,250,250,1) 35%, rgba(255,255,255,1) 60%, rgba(255,38,0,1) 62%, rgba(255,0,21,1) 62%, rgba(43,233,15,1) 65%);
+  }
+  
+  .box{
+    width: var(--main-size);
+    height: var(--main-size);
+    background-color: var(--main-color);
+  }
+  
+  p{
+    color: var(--main-color);
+    border: 1px solid var(--main-color);
+  }
+  
+  
+  .container{
+    width: 100%;
+    height: 600px;
+    background: var(--main-gradient);
+  } */
+  
+  
+  
+  /* after before */
+  /* type button  */
+  /* Triangle */
+  /* :root */
+  /* Table */
+  /* Font-awesome */
+  
+  /* table{
+    border-collapse: collapse;
+  }
+  
+  td, th{
+    border: 1px solid black;
+    padding: 10px 20px;
+  } */
+  
+  /* .fa-cart-arrow-down{
+    color: red;
+    font-size: 50px;
+    font-style: italic;
+  } */
